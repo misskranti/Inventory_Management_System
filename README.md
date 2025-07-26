@@ -15,7 +15,7 @@ A comprehensive inventory management system built with FIFO (First-In-First-Out)
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/misskranti/Inventory_Management_System.git
-cd inventory-management-fifo
+cd Inventory_Management_System
 ```
 
 ### 3. Start All Services
