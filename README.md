@@ -29,7 +29,7 @@ This will start:
 - **Frontend** (Next.js dashboard)
 
 ### 4. Access the Dashboard
-- Open: [http://localhost:3000](http://localhost:3000)
+- Open: [https://inventory-management-production-29ab.up.railway.app/](https://inventory-management-production-29ab.up.railway.app/)
 - **Login Credentials:**
   - Username: `admin`
   - Password: `inventory123`
