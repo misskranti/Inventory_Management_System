@@ -1,0 +1,17 @@
+{
+  "name": "inventory-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for Inventory Management System",
+  "main": "kafka-producer.js",
+  "scripts": {
+    "producer": "node kafka-producer.js",
+    "producer:random": "node kafka-producer.js --random",
+    "consumer": "node kafka-consumer.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "keywords": ["kafka", "inventory", "producer", "consumer"],
+  "author": "Your Name",
+  "license": "MIT"
+} 
